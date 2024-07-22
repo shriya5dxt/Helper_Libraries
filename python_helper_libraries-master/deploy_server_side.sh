@@ -1,0 +1,2 @@
+git -C /home/ubuntu/Notebooks/git_repositories/python_helper_libraries pull
+python3 -m pip install --force-reinstall --no-cache-dir /home/ubuntu/Notebooks/git_repositories/python_helper_libraries/dist/python_helper_library-0.0.1-py3-none-any.whl
