@@ -24,7 +24,7 @@ jedi==0.18.0
 joblib==1.0.0
 lxml==4.6.2
 murmurhash==1.0.5
-nltk==3.5
+nltk==3.10.4
 numpy==1.19.5
 olefile==0.46
 packaging==20.8
@@ -61,7 +61,7 @@ textract @ git+git://github.com/deanmalmgren/textract.git@9d739f807351fd9e430a19
 thinc==7.4.5
 threadpoolctl==2.1.0
 tokenizers==0.9.4
-torch==1.7.1
+torch==2.13.0
 tqdm==4.56.0
 traitlets==5.0.5
 transformers==4.2.1
